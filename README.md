@@ -1,4 +1,11 @@
-### Holaa 👋 soy valentín
+<h1 align="center"> Holaa 👋 soy valentín</h1>
+<h3 align="center">Estudiante de desarrollo de aplicaciones informaticas</h3>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/7c5bdd749620e871d557f8ef9b837b05/329c68d8b22f2575-d7/s640x960/6caa3865447ab7736baa4b37959c43efe992f75d.gifv" alt="Descripción de la imagen">
+</p>
+                                     
+
 
 <!--
 **ValenCMz/ValenCMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
