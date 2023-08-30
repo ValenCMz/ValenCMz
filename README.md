@@ -1,4 +1,4 @@
-<h1 align="center"> Holaa 👋 soy valentín</h1>
+<h1 align="center"> Holaa 👋 soy Valentín</h1>
 <h3 align="center">Estudiante de desarrollo de aplicaciones informaticas</h3>
 
 <p align="center">
