@@ -1,4 +1,4 @@
-<h1 align="center"> Holaa 👋 soy Valentín</h1>
+![image](https://github.com/user-attachments/assets/d952c5e6-83df-456b-a0a0-47b231a22a1a)![image](https://github.com/user-attachments/assets/4f837b60-7d38-437b-8bab-498c31fe826b)![image](https://github.com/user-attachments/assets/13743250-2d99-492d-b382-6848ba12e90f)<h1 align="center"> Holaa 👋 soy Valentín</h1>
 <h3 align="center">Estudiante de desarrollo de aplicaciones informaticas</h3>
 
 <p align="center">
@@ -25,6 +25,15 @@
 
 <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> </a>
+
+<a href="https://aws.amazon.com/es/?nc2=h_lg" target="_blank" rel="noreferrer"> 
+<img href="https://dt-cdn.net/hub/logos/amazon-dynamodb.png">
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img href="https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=tag&related_id=5968381">
+
+<a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
+<img href="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000">
 </p>
 
 <!--
