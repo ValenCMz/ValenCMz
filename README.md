@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d952c5e6-83df-456b-a0a0-47b231a22a1a)![image](https://github.com/user-attachments/assets/4f837b60-7d38-437b-8bab-498c31fe826b)![image](https://github.com/user-attachments/assets/13743250-2d99-492d-b382-6848ba12e90f)<h1 align="center"> Holaa 👋 soy Valentín</h1>
+<h1 align="center"> Holaa 👋 soy Valentín</h1>
 <h3 align="center">Estudiante de desarrollo de aplicaciones informaticas</h3>
 
 <p align="center">
