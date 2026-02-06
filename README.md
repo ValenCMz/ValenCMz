@@ -1,5 +1,5 @@
-<h1 align="center"> Holaa 👋 soy Valentín</h1>
-<h3 align="center">Estudiante de desarrollo de aplicaciones informaticas</h3>
+<h1 align="center"> Holaa soy Valentín</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="center">
   <img src="https://art.pixilart.com/84e41d824c52e3e.gif" alt="Descripción de la imagen">
