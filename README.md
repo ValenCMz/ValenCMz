@@ -1,52 +1,51 @@
-<h1 align="center"> Holaa soy Valentín</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
+<h1 align="center">Valentín Caminos Martinez</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://art.pixilart.com/84e41d824c52e3e.gif" alt="Descripción de la imagen">
-</p>
-                                     
-<h3 align="left">Skills:</h3>
-
-
-<p align="left"> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css" width="40" height="40"/> </a> 
-
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="js" width="40" height="40"/> </a> 
-
-<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgresql" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> </a>
-
-<a href="https://aws.amazon.com/es/?nc2=h_lg" target="_blank" rel="noreferrer"> 
-<img href="https://dt-cdn.net/hub/logos/amazon-dynamodb.png">
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img href="https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=tag&related_id=5968381">
-
-<a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
-<img href="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000">
+  Construyendo aplicaciones web modernas con React, TypeScript y backend escalable.
 </p>
 
-<!--
-**ValenCMz/ValenCMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador Full Stack con experiencia en frontend moderno y backend robusto.
+Trabajo con React, TypeScript, Java, Spring Boot, Postgresql.
+
+Me interesa la arquitectura limpia, la automatización y la integración con IA.
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+- React
+- TypeScript
+- Next.js
+- TailwindCSS
+- React Native
+
+### Backend
+- Java (Spring)
+- Laravel
+- Node.js
+- REST APIs
+
+### DevOps & Cloud
+- Docker
+- AWS
+- GitHub Actions
+- PostgreSQL
+- DynamoDB
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/valentin-caminos-martinez-125384236/
+- Email: caminosmartinezvalentin@gmail.com
+- Portfolio: https://valencmz.github.io/portfolio/
+
+---
+
+⭐ Siempre aprendiendo y construyendo.
